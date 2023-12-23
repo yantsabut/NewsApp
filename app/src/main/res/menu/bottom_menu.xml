@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/headlines"
+        android:title="@string/headlines"
+        android:icon="@drawable/ic_column_horizontal"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/saved"
+        android:title="@string/saved"
+        android:icon="@drawable/ic_favourite"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/sources"
+        android:title="@string/sources"
+        android:icon="@drawable/ic_rss"
+        android:enabled="true"/>
+
+</menu>
