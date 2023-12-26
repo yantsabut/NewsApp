@@ -14,7 +14,8 @@ NewsApp - приложение предназначено для новосте�
 - Room Database
 - Dependency Injection with Dagger2
 - Retrofit for networking
-- RxJava for asynchronous tasks
+- RxJava
+- Kotlin Coroutines for asynchronous tasks
 - Moxy for MVP
 - Glide for image loading
 
